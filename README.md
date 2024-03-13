@@ -19,7 +19,7 @@ Contributions are welcome! If you find any bugs in any project or have ideas to 
 
 ## Contact
 
-If you have any questions or just want to chat about any of the projects, feel free to contact me. You can find me on [my LinkedIn](https://www.linkedin.com/in/danielaquino2003/) or via email: aquinosantiagodani@gmail.com.
+If you have any questions or just want to chat about any of the projects, feel free to contact me. You can find me on my [LinkedIn](https://www.linkedin.com/in/danielaquino2003/) or via email: aquinosantiagodani@gmail.com.
 
 I hope you enjoy exploring my projects as much as I enjoyed developing them!
 
