@@ -1,27 +1,26 @@
-# Repositorio de Proyectos Personales
+# Personal Projects Repository
 
-¡Bienvenido/a a mi repositorio de proyectos personales!
+Welcome to my personal projects repository!
 
-Este repositorio contiene una colección de proyectos que he desarrollado como parte de mi aprendizaje y experiencia personal en diversos temas. Aquí encontrarás una variedad de proyectos, desde pequeñas aplicaciones hasta proyectos más completos, que reflejan mis intereses y habilidades en el mundo de la programación y la tecnología.
+This repository contains a collection of projects I have developed as part of my learning and personal experience in various topics. Here you will find a variety of projects, from small applications to more complete projects, reflecting my interests and skills in the world of programming and technology.
 
-## Lista de Proyectos
+## Project List
 
-1. **Lista de Tareas**: Una aplicación de lista de tareas que desarrollé utilizando HTML, CSS y JavaScript para mejorar mis habilidades en el desarrollo web.
+1. **Task List**: A task list application that I developed using HTML, CSS, and JavaScript to improve my web development skills.
 
-## Estructura del Repositorio
+## Repository Structure
 
-- Cada proyecto tiene su propio directorio dentro de este repositorio.
-- En el directorio de cada proyecto, encontrarás una breve descripción del proyecto y las instrucciones para ejecutarlo o probarlo.
+- Each project has its own directory within this repository.
+- In the directory of each project, you will find a brief description of the project and instructions on how to run or test it.
 
-## Contribuciones
+## Contributions
 
-¡Las contribuciones son bienvenidas! Si encuentras algún error en algún proyecto o tienes ideas para mejorarlo, no dudes en abrir un issue o enviar una solicitud de extracción (pull request).
+Contributions are welcome! If you find any bugs in any project or have ideas to improve it, feel free to open an issue or send a pull request.
 
-## Contacto
+## Contact
 
-Si tienes alguna pregunta o simplemente quieres charlar sobre alguno de los proyectos, no dudes en contactarme. Puedes encontrarme en [mi linkedin](https://www.linkedin.com/in/danielaquino2003/) o a través de mi correo electrónico: aquinosantiagodani@gmail.com
+If you have any questions or just want to chat about any of the projects, feel free to contact me. You can find me on [my LinkedIn](https://www.linkedin.com/in/danielaquino2003/) or via email: aquinosantiagodani@gmail.com.
 
-¡Espero que disfrutes explorando mis proyectos tanto como yo disfruté desarrollándolos!
+I hope you enjoy exploring my projects as much as I enjoyed developing them!
 
-¡Gracias por visitar mi repositorio!
-
+Thank you for visiting my repository!
