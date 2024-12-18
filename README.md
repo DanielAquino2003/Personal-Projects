@@ -9,12 +9,12 @@ Whether you're looking for web applications, APIs, or experimental tools, this i
 🚀 Projects
 
 Here’s a list of my projects with a brief description and links to their respective repositories:
-1. TaskLY - Task Management App
+1. [TaskLY - Task Management App](https://github.com/DanielAquino2003/TaskManager-FrontEnd)
 
 Description: A task management app built with React for creating, updating, and organizing tasks.
 Technologies: React.js, Tailwind CSS, LocalStorage/API.
 Repository: Task Manager Frontend
-2. TaskLY API - Django REST Server
+2. [TaskLY API - Django REST Server](https://github.com/DanielAquino2003/Task-manager-Api)
 
 Description: A backend API built with Django and Django REST Framework for handling tasks and user data.
 Technologies: Django, Django REST Framework, PostgreSQL (or SQLite).
