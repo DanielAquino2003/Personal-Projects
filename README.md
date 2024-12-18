@@ -14,6 +14,7 @@ Here’s a list of my projects with a brief description and links to their respe
 Description: A task management app built with React for creating, updating, and organizing tasks.
 Technologies: React.js, Tailwind CSS, LocalStorage/API.
 Repository: Task Manager Frontend
+
 2. [TaskLY API - Django REST Server](https://github.com/DanielAquino2003/Task-manager-Api)
 
 Description: A backend API built with Django and Django REST Framework for handling tasks and user data.
