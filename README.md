@@ -5,12 +5,19 @@ Welcome to my Personal Projects Repository! 🚀 Here you’ll find links to var
 
 This repository serves as an index or portfolio for all my personal projects. The goal is to centralize access to these projects, making it easier to navigate and explore my work.
 
-Whether you're looking for web applications, APIs, or experimental tools, this is the place to find them!
+Whether you're looking for web applications, APIs, or experimental tools, this is the place to find them! 🚀
 🚀 Projects
 
 Here’s a list of my projects with a brief description and links to their respective repositories:
 1. TaskLY - Task Management App
 
-    Description: A task management app built with React for creating, updating, and organizing tasks.
-    Technologies: React.js, Tailwind CSS, LocalStorage/API.
-    Repository: TaskLY Repo
+Description: A task management app built with React for creating, updating, and organizing tasks.
+Technologies: React.js, Tailwind CSS, LocalStorage/API.
+Repository: Task Manager Frontend
+2. TaskLY API - Django REST Server
+
+Description: A backend API built with Django and Django REST Framework for handling tasks and user data.
+Technologies: Django, Django REST Framework, PostgreSQL (or SQLite).
+Repository: Task Manager API
+
+Feel free to explore the repositories, and don’t hesitate to reach out if you have any questions or feedback! 😄
